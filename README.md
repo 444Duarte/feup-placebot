@@ -1,6 +1,13 @@
 #FEUP-placebot
 
-Basta mudar as credenciais no __users.json__ e correr os seguintes commandos
+Correr os seguintes comandos na linha de comandos/bash
+
+```
+    git clone https://github.com/444Duarte/feup-placebot.git
+    cd feup-placebot
+```
+
+A seguir basta mudar as credenciais no __users.json__ e correr os seguintes commandos
 
 ```
     npm install
