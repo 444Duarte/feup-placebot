@@ -1,10 +1,10 @@
-#FEUP-placebot
+# FEUP-placebot
 
-##Instalar antes
+## Instalar antes
 
 [Node v6.10.1 LTS](https://nodejs.org/en/)
 
-##Executar
+## Executar
 
 Correr os seguintes comandos na linha de comandos/bash
 
